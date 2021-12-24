@@ -1,6 +1,6 @@
 [submodule "clip"]
 	path = third_party/clip
-	url = https://github/com/dacap/clip.git
+	url = https://github.com/dacap/clip.git
 [submodule "leveldb"]
 	path = third_party/leveldb
 	url = https://github.com/google/leveldb.git
